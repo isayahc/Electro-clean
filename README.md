@@ -1,7 +1,7 @@
 # Project Temp Name
 
 ## Objective
-Use rapidly produced bodies noted as $\mathcal{B}$ of various dimensions, each with charged surfaces surfaces of variable charges in {unit of measurement for static charge} to collect pollutants ranging from:
+Use rapidly produced bodies denoted as $\mathcal{B}$ of various dimensions, each with charged surfaces surfaces of variable charges in {unit of measurement for static charge} to collect fine particulate matter ranging from:
 - PM10
 - PM2.5
 - PM0.1
