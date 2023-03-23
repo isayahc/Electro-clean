@@ -1,5 +1,3 @@
-# sample
+# Project Temp Name
 
-$\frac{1}{2}$
-
-$$E=mc^2$$.
+## K
