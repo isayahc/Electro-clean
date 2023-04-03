@@ -18,7 +18,7 @@ Additional features of $b_i$ include:
 
 ### Charging
 
-$\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses
+$\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses a moving belt to accumulate electric charge on a hollow metal globe on top of an insulated column, creating very high electric potentials. The charged $b_i$ units will attract particles with lesser charges based on Coulomb's law, which states that like charges repel and opposite charges attract.
 
 Clean system can be applied in various sectors and industries, such as:
 
