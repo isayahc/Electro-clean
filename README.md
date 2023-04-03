@@ -6,8 +6,8 @@ Design and create a system that utilizes rapidly produced bodies, denoted as $\m
 ## Properties of $\mathcal{B}$
 
 Each member of $\mathcal{B}$, denoted $b_i$ will be produced using a chemical compound denoted as $\mathcal{C}$. $\mathcal{C}$ will optimize:
-- The lifetime of each $\mathcal{B}$
-- The mechanical integrity of $\mathcal{B}$
+- The lifetime of $b_i$
+- The mechanical integrity of $b_i$
 
 Additional features of $b_i$ include:
 
