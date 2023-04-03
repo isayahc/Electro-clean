@@ -20,11 +20,14 @@ Additional features of $b_i$ include:
 
 $\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses a moving belt to accumulate electric charge on a hollow metal globe on top of an insulated column, creating very high electric potentials. The charged $b_i$ units will attract particles with lesser charges based on Coulomb's law, which states that like charges repel and opposite charges attract.
 
-Clean system can be applied in various sectors and industries, such as:
+## Potential Applications
+
+The Project ElectroClean system can be applied in various sectors and industries, such as:
 
 - Air purification in urban areas, reducing air pollution and improving public health
 - Industrial applications, to reduce emissions and minimize the environmental impact of manufacturing processes
 - Indoor air quality management, for homes, offices, and other enclosed spaces, leading to a healthier indoor environment
+
 
 ## Future Work and Considerations
 
