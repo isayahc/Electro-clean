@@ -1,24 +1,42 @@
-# Project Temp Name
+# Project ElectroClean
 
 ## Objective
-Use rapidly produced bodies denoted as $\mathcal{B}$ of various dimensions, each with charged surfaces of variable charges in {unit of measurement for static charge} to collect fine particulate matter ranging from:
-- PM10
-- PM2.5
-- PM0.1
-
-Additional this device could locate and collect bulk pollutants with the maximum mass $\mathrm{M_{bulk}}$, measured in grams.
+Design and create a system that utilizes rapidly produced bodies, denoted as $\mathcal{B}$, with charged surfaces to collect fine particulate matter (PM10, PM2.5, and PM0.1) and bulk pollutants with a maximum mass of $\mathrm{M_{bulk}}$, measured in grams.
 
 ## Properties of $\mathcal{B}$
-as well as bulk material of mass $\mathrm{M_{bulk}}$. Each $\mathcal{B}$ will be produced by using a chemical compound denoted as $\mathcal{C}$.  $\mathcal{C}$ will optimize:
-- the life time of each $\mathcal{B}$
-- the mechanical integrity of $\mathcal{B}$
 
-Other aditional features of a $\mathcal{B}$ include:
+Each member of $\mathcal{B}$, denoted $b_i$ will be produced using a chemical compound denoted as $\mathcal{C}$. $\mathcal{C}$ will optimize:
+- The lifetime of each $\mathcal{B}$
+- The mechanical integrity of $\mathcal{B}$
 
-- the ability to transfer information to other $\mathcal{B}$'s, and if close enough, to center node (Probably controlled by microcontrolled, but will depend on the computing power needed)
-- the ability to convert Electro-Magnetic energy into sound / read Electro-Magnetic energy from $\mathrm{Area_{read}}^3$. Also must be able to handle noise from data.
-- Must be able to store charge ranging from $\mathrm{Charge_{max}}$ to $\mathrm{Charge_{min}}$
-- Has the ability to locate clusters of polluntants, as well as location bulk material 
+Additional features of $b_i$ include:
 
-### Charges
-$\mathcal{B}$ can become charged via an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as  [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator) a which uses a moving belt to accumulate electric charge on a hollow metal globe on the top of an insulated column, creating very high electric potentials. A battery powered Van de Graff generator can be built with instructions in this [video](https://youtu.be/b-Gs81_-_aU). A Van de Graff will attract the bubbles as seen [here](https://youtu.be/hoswNJZqUX0). The bubbles will takes electrons from the Van de Graff, so it is important to have an estimation of where the charges are. Due to to excess charge, $\mathcal{B}$ will atract particles of lesser charge based on Columb's law, which states that like charges repel and opposite charges attract.
+- The ability to transfer information to other $b_i$ units and, if close enough, to a central node (likely controlled by a microcontroller, but this will depend on the required computing power)
+- The ability to convert electromagnetic energy into sound and read electromagnetic energy from $\mathrm{Area_{read}}^3$. The system must also be able to handle noise from data.
+- The capacity to store charges ranging from $\mathrm{Charge_{max}}$ to $\mathrm{Charge_{min}}$
+- The capability to locate clusters of pollutants and identify the location of bulk materials
+
+### Charging
+
+$\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses
+
+Clean system can be applied in various sectors and industries, such as:
+
+- Air purification in urban areas, reducing air pollution and improving public health
+- Industrial applications, to reduce emissions and minimize the environmental impact of manufacturing processes
+- Indoor air quality management, for homes, offices, and other enclosed spaces, leading to a healthier indoor environment
+
+## Future Work and Considerations
+
+Further research and development of the Project ElectroClean system should focus on:
+
+1. Identifying and optimizing the chemical compound ($\mathcal{C}$) for producing $\mathcal{B}$ units with desired properties, such as longer lifetimes and improved mechanical integrity.
+2. Developing an efficient charging mechanism for $b_i$ units that allows for precise control of the charge distribution and minimizes energy consumption.
+3. Investigating the most effective communication and data transfer methods between $\mathcal{B}$ units and the central node, ensuring robustness, and real-time monitoring capabilities.
+4. Enhancing the electromagnetic energy conversion and noise handling capabilities of the system to improve the accuracy and efficiency of pollutant detection and collection.
+5. Exploring methods for disposing of or recycling the collected particulate matter and bulk pollutants, to ensure a closed-loop and environmentally sustainable process.
+6. Conducting tests and simulations to validate the effectiveness of the system under various environmental conditions and pollutant concentrations.
+7. Evaluating the cost-effectiveness and scalability of the system for large-scale deployment in different contexts, such as urban areas, industrial settings, or indoor environments.
+
+By addressing these challenges and optimizing the various aspects of the Project ElectroClean system, this innovative approach to pollution management has the potential to make a significant impact
+
