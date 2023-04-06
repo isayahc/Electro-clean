@@ -18,7 +18,7 @@ Additional features of $b_i$ include:
 
 ### Charging
 
-Based on a demostration in [This Video](https://www.youtube.com/watch?v=hoswNJZqUX0). $\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses a moving belt to accumulate electric charge on a hollow metal globe on top of an insulated column, creating very high electric potentials. The charged $b_i$ units will attract particles with lesser charges based on Coulomb's law, which states that like charges repel and opposite charges attract.
+Based on a demostration in [This Video](https://www.youtube.com/watch?v=hoswNJZqUX0). each $b_i$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses a moving belt to accumulate electric charge on a hollow metal globe on top of an insulated column, creating very high electric potentials. The charged $b_i$ units will attract particles with lesser charges based on Coulomb's law, which states that like charges repel and opposite charges attract.
 
 ## Potential Applications
 
@@ -33,9 +33,9 @@ The Project ElectroClean system can be applied in various sectors and industries
 
 Further research and development of the Project ElectroClean system should focus on:
 
-1. Identifying and optimizing the chemical compound ($\mathcal{C}$) for producing $\mathcal{B}$ units with desired properties, such as longer lifetimes and improved mechanical integrity.
+1. Identifying and optimizing the chemical compound ($\mathcal{C}$) for producing $b_i$ units with desired properties, such as longer lifetimes and improved mechanical integrity.
 2. Developing an efficient charging mechanism for $b_i$ units that allows for precise control of the charge distribution and minimizes energy consumption.
-3. Investigating the most effective communication and data transfer methods between $\mathcal{B}$ units and the central node, ensuring robustness, and real-time monitoring capabilities.
+3. Investigating the most effective communication and data transfer methods between $b_i$ units and the central node, ensuring robustness, and real-time monitoring capabilities.
 4. Enhancing the electromagnetic energy conversion and noise handling capabilities of the system to improve the accuracy and efficiency of pollutant detection and collection.
 5. Exploring methods for disposing of or recycling the collected particulate matter and bulk pollutants, to ensure a closed-loop and environmentally sustainable process.
 6. Conducting tests and simulations to validate the effectiveness of the system under various environmental conditions and pollutant concentrations.
