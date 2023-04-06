@@ -18,7 +18,7 @@ Additional features of $b_i$ include:
 
 ### Charging
 
-$\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses a moving belt to accumulate electric charge on a hollow metal globe on top of an insulated column, creating very high electric potentials. The charged $b_i$ units will attract particles with lesser charges based on Coulomb's law, which states that like charges repel and opposite charges attract.
+Based on a demostration in [This Video](https://www.youtube.com/watch?v=hoswNJZqUX0).$\mathcal{B}$ can be charged using an [electrostatic generator](https://en.wikipedia.org/wiki/Electrostatic_generator) such as a [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator), which uses a moving belt to accumulate electric charge on a hollow metal globe on top of an insulated column, creating very high electric potentials. The charged $b_i$ units will attract particles with lesser charges based on Coulomb's law, which states that like charges repel and opposite charges attract.
 
 ## Potential Applications
 
@@ -43,3 +43,6 @@ Further research and development of the Project ElectroClean system should focus
 
 By addressing these challenges and optimizing the various aspects of the Project ElectroClean system, this innovative approach to pollution management has the potential to make a significant impact
 
+## References
+
+- [Static Electricity and Bubbles!](https://www.youtube.com/watch?v=hoswNJZqUX0) by Jefferson Lab - March 19, 2009
