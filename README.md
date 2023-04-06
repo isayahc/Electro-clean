@@ -46,3 +46,5 @@ By addressing these challenges and optimizing the various aspects of the Project
 ## References
 
 1. [Static Electricity and Bubbles!](https://www.youtube.com/watch?v=hoswNJZqUX0) by Jefferson Lab - March 19, 2009
+2. [Electrostatic Generator](https://en.wikipedia.org/wiki/Electrostatic_generator) - Wikipedia
+3. [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator) - Wikipedia
