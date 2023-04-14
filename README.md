@@ -48,3 +48,5 @@ By addressing these challenges and optimizing the various aspects of the Project
 1. [Static Electricity and Bubbles!](https://www.youtube.com/watch?v=hoswNJZqUX0) by Jefferson Lab - March 19, 2009
 2. [Electrostatic Generator](https://en.wikipedia.org/wiki/Electrostatic_generator) - Wikipedia
 3. [Van de Graaff generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator) - Wikipedia
+4. [DIY 40000 volt Van Der Graaff (battery powered)](https://www.youtube.com/watch?v=b-Gs81_-_aU) - Youtube
+5. [Electrostatics](https://en.wikipedia.org/wiki/Electrostatics) - Wikipedia
