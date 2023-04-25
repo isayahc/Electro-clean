@@ -5,7 +5,7 @@ Design and create a system that utilizes rapidly produced bodies, denoted as $\m
 
 ## Properties of $\mathcal{B}$
 
-Each member of $\mathcal{B}$, denoted $b_i$ will be produced using a chemical formula denoted as $\mathcal{C}$. $\mathcal{C}$ will optimize:
+Each member of $\mathcal{B}$, denoted $b_i$ will be produced using a chemical solution denoted as $\mathcal{C}$. $\mathcal{C}$ will optimize:
 - The lifetime of $b_i$
 - The mechanical integrity of $b_i$
 
@@ -33,7 +33,7 @@ The Project ElectroClean system can be applied in various sectors and industries
 
 Further research and development of the Project ElectroClean system should focus on:
 
-1. Identifying and optimizing the chemical formula ($\mathcal{C}$) for producing $b_i$ units with desired properties, such as longer lifetimes and improved mechanical integrity.
+1. Identifying and optimizing the chemical solution ($\mathcal{C}$) for producing $b_i$ units with desired properties, such as longer lifetimes and improved mechanical integrity.
 2. Developing an efficient charging mechanism for $b_i$ units that allows for precise control of the charge distribution and minimizes energy consumption.
 3. Investigating the most effective communication and data transfer methods between $b_i$ units and the central node, ensuring robustness, and real-time monitoring capabilities.
 4. Enhancing the electromagnetic energy conversion and noise handling capabilities of the system to improve the accuracy and efficiency of pollutant detection and collection.
